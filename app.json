@@ -1,0 +1,69 @@
+{
+  "id": "0c247c4d-2d22-4c37-8446-fd9b911e9351",
+  "name": "Landed Cost Provision",
+  "publisher": "ISPL",
+  "version": "1.0.0.12",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "213a67b3-a931-4d61-8ed4-8f5ccae345c3",
+      "name": "Kemipex Base App",
+      "publisher": "Kemipex FZE",
+      "version": "1.0.0.0"
+  },
+  {
+      "id": "c447a136-b2eb-49c3-ae53-41c311960f9b",
+      "name": "Kemipex Enhancement App",
+      "publisher": "Kemipex FZE",
+      "version": "1.0.0.0"
+  },
+  {
+      "id": "33aa3663-45ec-4155-ac1d-84bef5b6c291",
+      "name": "Certificate of Analysis",
+      "publisher": "Kemipex FZE",
+      "version": "1.0.0.0"
+  },
+  {
+      "id": "c512d720-63b9-4b26-b062-a0c09b4ed322",
+      "name": "Company Hub",
+      "publisher": "Microsoft",
+      "version": "1.0.0.0"
+    },
+    {
+  "id": "3881b960-40e7-4b1f-9383-adf286c85763",
+      "name": "Kemipex Business App",
+      "publisher": "Kemipex FZE",
+      "version": "1.0.0.0"
+    }
+    
+  
+],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50125,
+      "to": 50149    
+    },
+    {
+      "from": 50115,
+      "to": 50116
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
